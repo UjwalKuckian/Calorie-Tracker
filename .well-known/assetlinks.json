@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.ujwalkuckian.caloriecounter",
+        "sha256_cert_fingerprints": ["30:DA:A4:FE:E2:18:49:38:06:B9:7F:E6:3E:41:6C:70:6A:7B:84:DA:05:51:D4:41:D2:53:F0:FD:E7:47:75:7A"]
+      }
+    }]
